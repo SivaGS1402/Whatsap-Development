@@ -12,3 +12,5 @@ Author: Siva
 4.Create last seen and blue tick page.
 
 5.create a Profile Picture page.
+
+Hiding the last seen
