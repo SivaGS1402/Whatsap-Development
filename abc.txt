@@ -1,0 +1,14 @@
+THIS IS WHATSUP CODE
+
+Author: Siva
+
+
+1.Create Login Page.
+
+2.Create Contact details page.
+
+3.Create Status Page.
+
+4.Create last seen and blue tick page.
+
+5.create a Profile Picture page.
